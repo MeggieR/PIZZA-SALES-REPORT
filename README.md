@@ -1,2 +1,3 @@
 # PIZZA-SALES-REPORT
-A powerBi project for Pizza sales
+A SQL and powerBi project for Pizza sales
+
